@@ -1,0 +1,15 @@
+{
+  "environment": "development",
+  "hydra": {
+    "serviceName": "hpp",
+    "serviceIP": "",
+    "servicePort": 0,
+    "serviceType": "game",
+    "serviceDescription": "Serves as a hot potato player",
+    "redis": {
+      "url": "localhost",
+      "port": 6379,
+      "db": 0
+    }
+  }
+}

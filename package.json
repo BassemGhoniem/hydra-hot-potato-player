@@ -1,0 +1,15 @@
+{
+  "name": "hydra-hpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hpp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bassem Ghoniem <bassem.ghoniem@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fwsp-hydra": "^0.14.3"
+  }
+}
